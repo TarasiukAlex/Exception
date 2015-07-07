@@ -5,5 +5,8 @@ package org;
  */
 public class Banan {
     String er;
-
+    String er2;
+String er3;
+    String er32;
+    String er12;
 }
