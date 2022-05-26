@@ -12,13 +12,11 @@ public final class Decoder {
            // res[i]=temp[i]+3;
 
         }
-
         return res;
     }
+   
     public static  void main (String []qwe){
         String s = "asd";
         System.out.println( );
-
-
     }
 }
